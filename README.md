@@ -49,21 +49,19 @@ The website is deployed on **AWS EC2 (Ubuntu)** using **Nginx** and the source c
 
 ## 1. 🏠 Home Page
 
-![CARBOOK Home Page](./screenshots/home.png)
+![CARBOOK Home Page](./home.png)
 
 ## 2. 🛠️ Services Section
 
-![CARBOOK Services](./screenshots/services.png)
+![CARBOOK Services](./services.png)
 
 ## 3. 📊 Statistics & Footer
 
-![CARBOOK Statistics and Footer](./screenshots/stats-footer.png)
+![CARBOOK Statistics and Footer](./stats-footer.png)
 
-## 4. 🚘 Featured Vehicles
+## 4. 🚗 Featured Vehicles
 
-![CARBOOK Featured Vehicles](./screenshots/vehicles.png)
-
----
+![CARBOOK Featured Vehicles](./vehicles.png)
 
 # ☁️ AWS EC2 Deployment
 
